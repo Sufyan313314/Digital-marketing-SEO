@@ -1,6 +1,6 @@
 # 📣 Digital Marketing Portfolio — Sufyan
 
-This repository showcases my hands-on digital marketing experience across **SEO**, **Social Media Management**, **Meta & Instagram Advertising**, and **YouTube Optimisation**. My work spans freelance projects, placement experience, and in-house community management — with real, measurable outcomes.
+This repository showcases my hands-on digital marketing experience across **SEO**, **Social Media Management**, **Meta & Instagram Advertising**, **YouTube Optimisation**, **Amazon Monetisation**, and **E-commerce**. My work spans freelance projects, placement experience, and in-house community management — with real, measurable outcomes.
 
 ---
 
@@ -8,6 +8,9 @@ This repository showcases my hands-on digital marketing experience across **SEO*
 
 - [SEO — EcoVerify](#seo--ecoverify)
 - [Social Media Management — Highfields Centre](#social-media-management--highfields-centre)
+- [Digital Marketing Strategy — VWFS](#digital-marketing-strategy--vwfs)
+- [Amazon Monetisation & E-commerce](#amazon-monetisation--e-commerce)
+- [Dropshipping — Digital Marketing Work](#dropshipping--digital-marketing-work)
 - [YouTube Optimisation](#youtube-optimisation)
 - [Meta & Instagram Advertising](#meta--instagram-advertising)
 - [Tools & Skills](#tools--skills)
@@ -31,7 +34,7 @@ As part of my placement year at **[EcoVerify](https://www.ecoverify.co.uk/)**, a
 - The company appears in the **top 3 results on ChatGPT** — a strong indicator of GEO (Generative Engine Optimisation) performance, meaning the brand is being referenced by AI tools when users ask relevant questions
 - This dual presence across traditional search and AI-generated results reflects a forward-thinking SEO approach that goes beyond standard practice
 
-> Keyword research reports and backlink evidence are included in this repository.
+📄 **Backlink report:** [`commentbacklinks - Sheet1.pdf`](commentbacklinks%20-%20Sheet1.pdf)
 
 ---
 
@@ -51,7 +54,31 @@ As part of my placement year at **[EcoVerify](https://www.ecoverify.co.uk/)**, a
 
 The Managing Director was so pleased with the growth and quality of content that I was offered a **freelance role** to continue managing and expanding the centre's digital presence — a direct result of the impact delivered during the placement.
 
-> Screenshots of content performance and engagement are available in this repository.
+📄 **Presentation:** [`Highfields pdf_compressed.pdf`](Highfields%20pdf_compressed.pdf)
+
+---
+
+## Digital Marketing Strategy — VWFS
+
+A digital marketing strategy project focused on increasing reach and online visibility through targeted digital marketing efforts.
+
+📄 **Full strategy document:** [`VWFS.pdf`](VWFS.pdf)
+
+---
+
+## Amazon Monetisation & E-commerce
+
+Hands-on experience with Amazon product monetisation — covering product research, listing optimisation, and revenue strategy.
+
+📄 **Amazon monetisation work:** [`Amazon, SufyanAliKhan.xlsx - 1st Assi..pdf`](Amazon%2C%20SufyanAliKhan.xlsx%20-%201st%20Assi..pdf)
+
+---
+
+## Dropshipping — Digital Marketing Work
+
+Digital marketing work carried out for a dropshipping operation — covering product promotion, audience targeting, and channel strategy.
+
+📄 **Project document:** [`dropshippingsquad, Sufyan.pdf`](dropshippingsquad%2C%20Sufyan.pdf)
 
 ---
 
@@ -69,8 +96,6 @@ I have managed and optimised YouTube channels on behalf of clients, focusing on 
 - Monitored channel analytics via TubeBuddy dashboard — tracking impressions, click-through rate, average view duration, and subscriber growth
 - Stayed up to date with YouTube algorithm updates to ensure all optimisations reflected current platform requirements
 
-> TubeBuddy analytics screenshots are available in this repository.
-
 ---
 
 ## Meta & Instagram Advertising
@@ -87,13 +112,11 @@ I have planned and managed paid advertising campaigns across **Meta Ads Manager*
 - Adjusted targeting and spend based on live performance data
 - Boosted organic Instagram posts strategically to extend reach beyond the existing audience
 
-> Campaign screenshots and performance summaries are included in this repository.
-
 ---
 
 ## Tools & Skills
 
-`SEO` `Google Keyword Planner` `Ahrefs` `TubeBuddy` `Meta Ads Manager` `Instagram` `Facebook` `Canva` `YouTube Studio` `On-Page SEO` `Backlink Analysis` `GEO (Generative Engine Optimisation)` `Content Creation` `Video Shooting & Editing` `Community Management` `A/B Testing` `Campaign Reporting`
+`SEO` `Google Keyword Planner` `Ahrefs` `TubeBuddy` `Meta Ads Manager` `Instagram` `Facebook` `Canva` `YouTube Studio` `On-Page SEO` `Backlink Analysis` `GEO (Generative Engine Optimisation)` `Amazon Monetisation` `E-commerce` `Dropshipping` `Content Creation` `Video Shooting & Editing` `Community Management` `A/B Testing` `Campaign Reporting`
 
 ---
 
