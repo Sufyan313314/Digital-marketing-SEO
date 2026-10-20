@@ -28,11 +28,11 @@ As part of my placement year at **[EcoVerify](https://www.ecoverify.co.uk/)**, a
 - Optimised on-page SEO across the website — meta titles, descriptions, heading structure, internal linking, and content relevance
 - Monitored rankings and adjusted strategy based on performance data
 
-**Results:**
+**Evidence and outcomes:**
 
-- EcoVerify now ranks on the **first page of Google** for target keywords
-- The company appears in the **top 3 results on ChatGPT** — a strong indicator of GEO (Generative Engine Optimisation) performance, meaning the brand is being referenced by AI tools when users ask relevant questions
-- This dual presence across traditional search and AI-generated results reflects a forward-thinking SEO approach that goes beyond standard practice
+- Work focused on keyword targeting, on-page optimisation, competitor research and backlink development
+- A backlink report is included in this repository as a work sample
+- Search rankings and AI-generated recommendations change over time; any specific ranking claim should be accompanied by dated screenshots or analytics exports so the result can be independently assessed
 
 📄 **Backlink report:** [`commentbacklinks - Sheet1.pdf`](commentbacklinks%20-%20Sheet1.pdf)
 
@@ -122,4 +122,4 @@ I have planned and managed paid advertising campaigns across **Meta Ads Manager*
 
 ## 📫 Contact
 
-Interested in my digital marketing work? Connect via [LinkedIn](https://www.linkedin.com/in/sufyan-ali-khan/) or visit the main [GitHub profile](https://github.com/Sufyan313314).
+Interested in my digital marketing work? Connect via [LinkedIn](https://www.linkedin.com/in/sufyan-ali-khan) or visit the main [GitHub profile](https://github.com/Sufyan313314).
