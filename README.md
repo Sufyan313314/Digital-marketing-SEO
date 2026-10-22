@@ -58,13 +58,11 @@ The Managing Director was so pleased with the growth and quality of content that
 
 ---
 
-## Digital Marketing Strategy — VWFS
+## Electric Vehicle Adoption Strategy — Academic Project
 
-A digital marketing strategy project focused on increasing reach and online visibility through targeted digital marketing efforts.
+An edited public case study exploring barriers to battery-electric vehicle adoption in rental fleets and practical options for customer education, charging partnerships and fleet pilots. This is an academic strategy project, not an official Volkswagen Financial Services publication. The public version omits personal contact details and third-party interviewee information.
 
-📄 **Full strategy document:** [`VWFS.pdf`](VWFS.pdf)
-
----
+📄 **Edited case study:** [`VWFS.pdf`](VWFS.pdf)
 
 ## Amazon Monetisation & E-commerce
 
